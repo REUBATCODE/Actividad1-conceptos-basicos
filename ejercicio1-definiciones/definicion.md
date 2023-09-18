@@ -1,0 +1,3 @@
+# Los tipos de datos
+### Por definición...
+Un tipo de dato ***define las propiedades y operaciones que se pueden realizar con un valor en un lenguaje de programación.*** Los tipos de datos pueden ser primitivos (números, cadenas, booleanos, etc.) o compuestos (objetos, matrices, etc.).
